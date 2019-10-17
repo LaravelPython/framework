@@ -1,0 +1,4 @@
+config = {
+    'baseurl': '',
+    'basePath': '/path'
+}
